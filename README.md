@@ -2,6 +2,10 @@
 
 This project focuses on predicting student stress levels based on behavioral and academic data. The model aims to detect stress patterns using machine learning techniques and provides insights into potential stress factors that affect students.
 
+## 🔗 Live Demo
+
+👉 Check out the live demo here: [https://studentstressdetection.streamlit.app/)
+
 
 ## 🖼️ Project Frontend
 
