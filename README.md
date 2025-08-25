@@ -4,7 +4,7 @@ This project focuses on predicting student stress levels based on behavioral and
 
 ## 🔗 Live Demo
 
-👉 Check out the live demo here: [https://studentstressdetection.streamlit.app/)
+👉 Check out the live demo here: [https://studentstressdetection.streamlit.app/).
 
 
 ## 🖼️ Project Frontend
