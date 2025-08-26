@@ -9,7 +9,7 @@ This project focuses on predicting student stress levels based on behavioral and
 
 ## 🖼️ Project Frontend
 
-<img src="https://github.com/rathour-anushka/student_stress_detection/blob/main/Screenshot%202025-04-10%20205622.png">
+<img src="https://github.com/rathour-anushka/student_stress_detection/blob/main/data/Screenshot%202025-04-10%20205622.png">
 
 > *Screenshot of the interactive frontend interface built for stress prediction visualization.*
 
